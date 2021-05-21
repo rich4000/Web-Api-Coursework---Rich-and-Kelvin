@@ -21,5 +21,5 @@ Database Configuration
 
 ## Authors & Licence
 
-* **Yasser Dalouzi** - *eCommerce Website* - (https://github.com/yvsser1)
+* **Richard Tetteh** - *eCommerce Website* - (https://github.com/rich4000)
 * This project is open-source feel free to use it as you wish
